@@ -1,4 +1,8 @@
+# Main Imports
 from fastapi import FastAPI
+
+#Development Imports
+from icecream import ic
 
 app = FastAPI()
 
